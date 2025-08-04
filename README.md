@@ -1,5 +1,17 @@
-# Not happening today
-W.I.P. fixes, please be patient while I (invertedlightning) slowly update the erroneous files across the different resilience versions. To those reading this, at this time no changes from the main branch have been made.
+# Current State:
+W.I.P. fixes, one may say it is roughly sewn together.
+
+Only BL9_100%_monster_resilience_version has been 'patched', and without any of the mod prerequisites below taken into consideration. This is mostly patched to get past the initial loading screen for CDDA version 0.I release candidate 2025-08-04-0248 (and potentially further), no promises on all of the mod working as intended.
+
+_Current roadmap:_
+* Fix the other mods for this specific experimental release, as none of the others are able to get past the loading screen in order to fully bugfix BL9 which has 60% of it's craftables dependant on them in the first place.
+* Hunt down glaring issues once all the prerequisite mods are able to load independantly.
+* Iron out non-fatal errors once 0.I Stable releases in the future, and not before then with it's mercurial changes coming out of experimental.
+* Anything else I can think of which will annoy me during my personal playthroughs of this version of CDDA
+* Roll out the later changes across the other two resilience version for BL9 in 0.I Stable (less work for me keeping 3 versions up to date)
+
+#These things will not happen soon.
+
 
 Below is text from the original readme barring the rewritten heading here.
 
