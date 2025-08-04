@@ -2,7 +2,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_mobile_alliance_base1" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_purple",
@@ -57,7 +57,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_mobile_alliance_base2" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -112,7 +112,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_mobile_alliance_base3" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_azureblue",
@@ -167,7 +167,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_mobile_alliance_base4" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_orange",
@@ -222,7 +222,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_surface5" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_orange",
@@ -277,7 +277,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_surface6" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_orange",
@@ -332,7 +332,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_surface7" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_orange",
@@ -387,7 +387,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "hive_surface8" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_orange",
@@ -442,7 +442,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_tavrav1" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -528,7 +528,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_tavrav2" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -614,7 +614,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_tavrav3" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -700,7 +700,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_anomaly_tavrav4" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -786,7 +786,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_infested_facility1" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_corral",
@@ -841,7 +841,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_infested_facility2" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_yellow",
@@ -896,7 +896,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_infested_facility3" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_sandbrown",
@@ -951,7 +951,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "BL9_domain_infested_facility4" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_red",
@@ -1006,7 +1006,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sunken_caves_surface1" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -1061,7 +1061,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sunken_caves_surface2" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -1116,7 +1116,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sunken_caves_surface3" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -1171,7 +1171,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "sunken_caves_surface4" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_cyan",
@@ -1226,7 +1226,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "molten_caves_surface1" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_red",
@@ -1282,7 +1282,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "molten_caves_surface2" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_red",
@@ -1338,7 +1338,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "molten_caves_surface3" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_red",
@@ -1394,7 +1394,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "molten_caves_surface4" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_liq_red",
@@ -1450,7 +1450,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acidic_caves_surface1" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -1506,7 +1506,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acidic_caves_surface2" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -1562,7 +1562,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acidic_caves_surface3" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
@@ -1618,7 +1618,7 @@
   {
     "type": "mapgen",
     "om_terrain": [ "acidic_caves_surface4" ],
-    "method": "json",
+ 
     "weight": 100,
     "object": {
       "fill_ter": "t_BL9uniqmazing_fl_limegreen",
