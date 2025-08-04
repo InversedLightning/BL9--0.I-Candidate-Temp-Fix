@@ -1,6 +1,8 @@
 # Not happening today
 W.I.P. fixes, please be patient while I (invertedlightning) slowly update the erroneous files across the different resilience versions. To those reading this, at this time no changes from the main branch have been made.
 
+Below is text from the original readme barring the rewritten heading here.
+
 ## Prerequisites 
 **None, but playing with BIG content mods (Magiclysm, Aftershock, Secronom, Xedra Evolved, Mind Over Matter, Cata++, Arcana, Blazemod) is STRONGLY ADVISED because the content of this mod is QUITE MID-GAME to END-GAME so weapons, armor and balance changes from other mods will come in handy**
 
