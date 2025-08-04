@@ -2,7 +2,8 @@
   {
     "id": "BL9_intel_organization1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -15,7 +16,8 @@
   {
     "id": "BL9_intel_organization2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -28,7 +30,8 @@
   {
     "id": "BL9_intel_uniquesymbiote1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -41,7 +44,8 @@
   {
     "id": "BL9_theirsoldier_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -54,7 +58,8 @@
   {
     "id": "BL9_intel_they1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -67,7 +72,8 @@
   {
     "id": "BL9_cultist_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -80,7 +86,8 @@
   {
     "id": "BL9_intel_cult1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -93,7 +100,8 @@
   {
     "id": "BL9_intel_biomes1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -106,7 +114,8 @@
   {
     "id": "BL9_intel_biomes2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -119,7 +128,8 @@
   {
     "id": "BL9_intel_inhrav1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -132,7 +142,8 @@
   {
     "id": "BL9_intel_yengn1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -145,7 +156,8 @@
   {
     "id": "BL9_intel_ulniv1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -158,7 +170,8 @@
   {
     "id": "BL9_intel_ezron1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -171,7 +184,8 @@
   {
     "id": "BL9_intel_alliance1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -184,7 +198,8 @@
   {
     "id": "BL9_intel_alliance2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -197,7 +212,8 @@
   {
     "id": "BL9_intel_alliance3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -210,7 +226,8 @@
   {
     "id": "BL9_intel_alliance4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -223,7 +240,8 @@
   {
     "id": "BL9_intel_argan1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -236,7 +254,8 @@
   {
     "id": "BL9_intel_wanzel1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -249,7 +268,8 @@
   {
     "id": "BL9_intel_davran1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -262,7 +282,8 @@
   {
     "id": "BL9_intel_salden1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -275,7 +296,8 @@
   {
     "id": "BL9_intel_alliance5",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -288,7 +310,8 @@
   {
     "id": "BL9_wanzel_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -301,7 +324,8 @@
   {
     "id": "BL9_wanzel_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -314,7 +338,8 @@
   {
     "id": "BL9_davran_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -327,7 +352,8 @@
   {
     "id": "BL9_davran_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -340,7 +366,8 @@
   {
     "id": "BL9_davran_journal3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -353,7 +380,8 @@
   {
     "id": "BL9_subject5_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -366,7 +394,8 @@
   {
     "id": "BL9_agent_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -379,7 +408,8 @@
   {
     "id": "BL9_milpartners_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -392,7 +422,8 @@
   {
     "id": "BL9_milpartners_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -405,7 +436,8 @@
   {
     "id": "BL9_milpartners_journal3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -418,7 +450,8 @@
   {
     "id": "BL9_milpartners_journal4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -431,7 +464,8 @@
   {
     "id": "BL9_advencouple_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -444,7 +478,8 @@
   {
     "id": "BL9_advencouple_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -457,7 +492,8 @@
   {
     "id": "BL9_advencouple_journal3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -470,7 +506,8 @@
   {
     "id": "BL9_advencouple_journal4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -483,7 +520,8 @@
   {
     "id": "BL9_truesuperiors_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -496,7 +534,8 @@
   {
     "id": "BL9_truesuperiors_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -509,7 +548,8 @@
   {
     "id": "BL9_mercenaryspy_journal1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -522,7 +562,8 @@
   {
     "id": "BL9_mercenaryspy_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -535,7 +576,8 @@
   {
     "id": "BL9_davran_journal4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -548,7 +590,8 @@
   {
     "id": "BL9_agent_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -561,7 +604,8 @@
   {
     "id": "BL9_davran_journal5",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -574,7 +618,8 @@
   {
     "id": "BL9_subject5_journal2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -587,7 +632,8 @@
   {
     "id": "BL9_agent_note1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
@@ -600,7 +646,8 @@
   {
     "id": "BL9_guide_note1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "yellow",
@@ -613,7 +660,8 @@
   {
     "id": "BL9_guide_note2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
@@ -626,7 +674,8 @@
   {
     "id": "BL9_agent_note2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
@@ -639,7 +688,8 @@
   {
     "id": "BL9_guide_note3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
@@ -652,7 +702,8 @@
   {
     "id": "BL9_agent_note3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -665,7 +716,8 @@
   {
     "id": "BL9_guide_note4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
@@ -678,7 +730,8 @@
   {
     "id": "BL9_guide_note5",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
@@ -691,7 +744,8 @@
   {
     "id": "BL9_castlelan_note1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -704,7 +758,8 @@
   {
     "id": "BL9_agent_note4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -717,7 +772,8 @@
   {
     "id": "BL9_agent_note5",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -730,7 +786,8 @@
   {
     "id": "BL9_castlelan_note2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -743,7 +800,8 @@
   {
     "id": "BL9_agent_note6",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -756,7 +814,8 @@
   {
     "id": "BL9_castlelan_note3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -769,7 +828,8 @@
   {
     "id": "BL9_agent_note7",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -782,7 +842,8 @@
   {
     "id": "BL9_castlelan_note4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -795,7 +856,8 @@
   {
     "id": "BL9_agent_note8",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -808,7 +870,8 @@
   {
     "id": "BL9_agent_note9",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -821,7 +884,8 @@
   {
     "id": "BL9_castlelan_note5",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -834,7 +898,8 @@
   {
     "id": "BL9_agent_note10",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -847,7 +912,8 @@
   {
     "id": "BL9_castlelan_note6",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -860,7 +926,8 @@
   {
     "id": "BL9_agent_note11",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -873,7 +940,8 @@
   {
     "id": "BL9_castlelan_note7",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -886,7 +954,8 @@
   {
     "id": "BL9_agent_note12",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -899,7 +968,8 @@
   {
     "id": "BL9_castlelan_note8",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -912,7 +982,8 @@
   {
     "id": "BL9_agent_note13",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -925,7 +996,8 @@
   {
     "id": "BL9_castlelan_note9",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -938,7 +1010,8 @@
   {
     "id": "BL9_agent_note14",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -951,7 +1024,8 @@
   {
     "id": "BL9_agent_journal10",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "&",
     "looks_like": "newest_newspaper",
     "color": "blue",
@@ -964,7 +1038,8 @@
   {
     "id": "BL9_agent_note15",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -977,7 +1052,8 @@
   {
     "id": "BL9_master_note1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -990,7 +1066,8 @@
   {
     "id": "BL9_agent_note16",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1003,7 +1080,8 @@
   {
     "id": "BL9_master_note2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1016,7 +1094,8 @@
   {
     "id": "BL9_agent_note17",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1029,7 +1108,8 @@
   {
     "id": "BL9_master_note3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1042,7 +1122,8 @@
   {
     "id": "BL9_agent_note18",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1055,7 +1136,8 @@
   {
     "id": "BL9_master_note4",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1068,7 +1150,8 @@
   {
     "id": "BL9_agent_note19",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1081,7 +1164,8 @@
   {
     "id": "BL9_agent_note20",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1094,7 +1178,8 @@
   {
     "id": "BL9_master_note5",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1107,7 +1192,8 @@
   {
     "id": "BL9_agent_note21",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1120,7 +1206,8 @@
   {
     "id": "BL9_master_note6",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1133,7 +1220,8 @@
   {
     "id": "BL9_agent_note22",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1146,7 +1234,8 @@
   {
     "id": "BL9_agent_note23",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1159,7 +1248,8 @@
   {
     "id": "BL9_master_note7",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1172,7 +1262,8 @@
   {
     "id": "BL9_master_note8",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1185,7 +1276,8 @@
   {
     "id": "BL9_agent_note24",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1198,7 +1290,8 @@
   {
     "id": "BL9_general_note1",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1211,7 +1304,8 @@
   {
     "id": "BL9_general_note2",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1224,7 +1318,8 @@
   {
     "id": "BL9_general_note3",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1237,7 +1332,8 @@
   {
     "id": "BL9_agent_note25",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1250,7 +1346,8 @@
   {
     "id": "BL9_master_note9",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1263,7 +1360,8 @@
   {
     "id": "BL9_master_note10",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1276,7 +1374,8 @@
   {
     "id": "BL9_agent_note26",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1289,7 +1388,8 @@
   {
     "id": "BL9_agent_note27",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "looks_like": "survnote",
     "symbol": "^",
     "color": "red",
@@ -1302,7 +1402,8 @@
   {
     "id": "BL9_guide_note6",
     "category": "books",
-    "type": "GENERIC",
+    "type": "ITEM",
+    "subtypes": [ "GENERIC" ],
     "symbol": "^",
     "looks_like": "survnote",
     "color": "red",
